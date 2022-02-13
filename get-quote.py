@@ -1,4 +1,4 @@
-def master():
+def primary():
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def master():
   #print(quotes)
 
 if __name__== "__main__":
-  master()
+  primary()
